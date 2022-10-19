@@ -125,5 +125,4 @@ def log(a, b):
     print(f"Логарфм числа {a} по базі {b} дорівнює {math.log(a, b)}")
 
 
-print('some_change')
 menu(None)
